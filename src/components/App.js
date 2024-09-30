@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import CompA from './compA';
+import CompA from './CompA';
 
 
 const data = [
